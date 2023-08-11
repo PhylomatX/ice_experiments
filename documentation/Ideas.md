@@ -1,0 +1,1 @@
++ Embed the structure of papers into the reasoning process. E.g. questions about the general contributions of the paper should mostly take into account the Introduction and Conclusion sections while technical questions should be directed to the methods part of a paper. 
